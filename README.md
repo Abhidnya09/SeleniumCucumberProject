@@ -25,6 +25,7 @@ Enter the username
 Enter the password
 Click on Login button
 Verify if the Product Category name is matching with expected. The application can be run locally.
+
 Test Scenario 2:
 
 Open up google chrome browser (This project has google chrome driver version 115- which is installed and setup as path)
